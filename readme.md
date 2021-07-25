@@ -23,3 +23,7 @@ space was too tight to comfortably socket the IC, and I didn't want sharp pins o
 everything to the strip side.  Under the board is some carpet tape.
 
 ![unicorn](unicorn.jpg?raw=true)
+
+There is also a youtube video so you can see the light sequences
+https://www.youtube.com/watch?v=DPYmhrUM9PU
+
